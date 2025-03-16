@@ -1,0 +1,8 @@
+Requirements:
+- matplotlib 
+- nltk 
+- pandas 
+- re 
+- seaborn 
+- scikit-learn 
+- wordcloud
