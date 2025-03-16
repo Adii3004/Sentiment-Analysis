@@ -17,6 +17,6 @@ To set up the project, first create a virtual environment (optional but recommen
 Then install the required dependencies:
 pip install -r requirements.txt
 
-##Usage
+## Usage
 - Open the Jupyter Notebook: jupyter notebook ESA_final.ipynb
 - Run the notebook cells to process text and perform sentiment analysis.
