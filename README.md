@@ -11,13 +11,12 @@ This project performs **Sentiment Analysis** using Explicit Semantic Analysis (E
 
 To set up the project, first create a virtual environment (optional but recommended):
 
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\\Scripts\\activate
+- python -m venv venv
+- source venv/bin/activate  # On Windows use: venv\\Scripts\\activate
 
 Then install the required dependencies:
 pip install -r requirements.txt
 
-Usage
-Open the Jupyter Notebook:
-jupyter notebook ESA_final.ipynb
-Run the notebook cells to process text and perform sentiment analysis.
+##Usage
+- Open the Jupyter Notebook: jupyter notebook ESA_final.ipynb
+- Run the notebook cells to process text and perform sentiment analysis.
